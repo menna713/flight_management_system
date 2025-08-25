@@ -1,0 +1,5 @@
+fight number,airline,origin,destination,departure Time,arrival time,available seats,economyPrice,businessPrice,firstclassPrice
+E00001,EgyAirs,Egypt,England,10:00 am,6:00 pm,124,300.0,400.0,500.0
+E00002,SaudiAirs,Saudi,Qatar,8:00 pm,11:00 pm,129,300.0,400.0,500.0
+E00003,EnglandAirs,England,USA,5:00am,4:00pm,133,300.0,400.0,500.0
+E00004,FranceAirs,SouthAfrica,USA,5:00 am,9:00 am,125,300.0,400.0,900.0

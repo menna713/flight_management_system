@@ -1,0 +1,5 @@
+settings name, value
+language=uk
+maxSeats=60
+currency=UK
+passengers=worldwide

@@ -1,0 +1,14 @@
+Booking reference,customer Id,flight Id,passenger Id,seat selection,payment method,payment status,status
+R00001,U0001,E00003,P0001,economic,cash,paid,available
+R00002,U0002,E00002,P0002,business,cash,paid,available
+R00005,U0002,E00004,P00005,business,null,unpaid,available
+R00006,U0007,E00004,P00005,first,credit,paid,available
+R84703,U0002,E00002,p9028,first,cash,paid,available
+R9820,U0002,E00004,P09489,first,credit,paid,available
+R6758,U0001,E00004,P9865,first,credit,paid,available
+R5634,U0001,E00004,pp76543,first,cash,paid,available
+R875858,U0001,E00004,P9807665,economy,null,unpaid,available
+R09753,U0002,E00003,iewu,first,null,unpaid,available
+R00003,U0001,E00001,qewoi,business,cash,paid,available
+eiwj,U0001,E00004,sldjf,first,credit,paid,available
+R000337,U0001,E00002,P09086,first,cash,paid,available

@@ -1,0 +1,4 @@
+userID,username,password,name,email,contactInfo,user access,user promotion or demotion 
+U0001,hanaaedreis,hanaa2007,Hanaa Sherif,hanaaedreis@jljiojml,01551349777,inactive,user
+U0002,mennamohamed,4,Menna Mohamed,mennamohamed@gmail.com,1111111111111111,active,user
+U0004,malakmoh33,malak2009,malak,malak@hotmail.com,92408084,unknown,agent
